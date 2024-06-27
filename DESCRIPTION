@@ -1,0 +1,15 @@
+Package: regexcite
+Title: Test package for the Course "Spatial Data Science With R" by Luca Hesse
+Version: 0.0.0.9000
+Authors@R: 
+    person("Luca", "Hesse", email = "lhesse@uni-muenster.de", role = c("aut", "cre"))
+Description: Just a Basic package with Basic functionalities for testing purposes. I Need two have multiple sentences to have a valid description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    stringr
